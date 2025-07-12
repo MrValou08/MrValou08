@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Nicolas</h1>
-<p align="center">🎓 Étudiant en BTS SIO | 💻 Développeur Web</p>
+<p align="center">🎓 Étudiant en Licence Informatique au CNAM | 💻 Développeur Web</p>
 
 ---
 
@@ -11,3 +11,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
 
 ---
+
+### 📫 Contact
+
+- Email : mrvalou08@gmail.com
